@@ -1,0 +1,89 @@
+html{
+	overflow-x: hidden !important;
+}
+a, a:hover{
+	text-decoration: none;
+	color: inherit;
+}
+.blog-card{
+	transition: 100ms linear;
+}
+div.blog-card:hover{
+	box-shadow: 5px 5px 16px #76767654;
+}
+body{
+	font-family: 'Proza Libre', sans-serif;
+}
+.container{
+	width: 75%;
+}
+.pseudo_border {
+	position:relative;
+}
+.pseudo_border:after {
+	content:'';
+	position:absolute;
+	left:0; right:0;
+	top:100%;
+	margin:10px auto;
+	width:15%;
+	height:2px;
+	background:#00f;
+}
+.fp-tooltip {
+	color: #000 !important;
+}
+.text-skills{
+	color: #414141;
+	font-weight: 600;
+}
+.text-skills i{
+	font-size: 1.7em;
+	color: #34d3db;
+}
+.border-radius-10{
+	border-radius: 10px;
+}
+.skills-elements > .col-6  p{
+	line-height: 2em;
+	font-size: 18px;
+}
+.btn-main{
+	padding: 0.6em 1.3em;
+	font-weight: 600;
+	border-radius: 2em;
+}
+.btn-element{
+	padding: 0.5em 1em;
+	border-radius: 2em;
+}
+.stack-used{
+	font-size: 2em;
+}
+.stack-used i{
+	margin-right: 0.2em;
+}
+.community .stack-used{
+	font-size: 1.5em;
+}
+header{
+	background: linear-gradient(180deg, #94aec7, white);
+}
+header span.header-logo{
+	font-weight: 700;padding: 9px 10px 7px;
+}
+header .cover-section{
+	margin: 6em 0;
+}
+.skills-section, .projects, .community, .blog{
+	padding: 5em 0;
+}
+.touch {
+	padding: 5em 0 1em;
+}
+.blog{
+	background: linear-gradient(-160deg,#17a2b8,#ffffff);
+}
+.outbound-link{
+	font-size: 18px
+}
