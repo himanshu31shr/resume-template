@@ -1,0 +1,41 @@
+[
+	{
+		"id":1,
+		"company_name":"Dream Cyber Infoway Pvt. Ltd.",
+		"started":"2017-5-4",
+		"ended":null,
+		"current":true,
+		"designation":"Sr. Software Developer",
+		"about":"Working as a senior software developer for over a year, i have worked some of the major projects the company's been running with. We mainly specializes in web development with technologies including laravel, react, angularjs, codeigniter and java. I have participated in the web development division and given great results whether its about design decision or development prodigy. I have also had opportunity of being lead for some projects, where i have great job of managing my team and producing maintainable code.",
+		"projects":["Credit Pros", "Credit Repair Crm", "Maliweb", "Algaeceuticals", "TaaMusic"],
+		"technologies": ["php", "codeigniter", "laravel", "react", "angularjs"],
+		"url":"https://dreamcyberinfoway.com/",
+		"image":"/assets/images/dream-cyber-infoway.png"
+	},
+	{
+		"id":2,
+		"company_name":"Argalon Technologies Pvt. Ltd.",
+		"started":"2016-7-1",
+		"ended":"2017-5-1",
+		"current":false,
+		"designation":"Software Developer",
+		"about":"Argalon technologies operates on web and app development with exposure to US clients. Used technologies includes laravel, codeigniter, angularjs and java. I have had the opportunity to work on some great projects including ComeFixMe, which is essentially a clone of TaskRabbit. There were some other in house projects using wordpress api to replicate data to over 100 databases.",
+		"projects":["ComeFixMe", "FlipCommerce", "Workshop Manager"],
+		"technologies": ["php", "codeigniter", "laravel", "jquery"],
+		"url":"http://www.argalon.net",
+		"image":"/assets/images/logo.png"
+	},
+	{
+		"id":3,
+		"company_name":"Hyffins",
+		"started":"2015-11-1",
+		"ended":"2016-7-1",
+		"current":false,
+		"designation":"Software Developer",
+		"about":"A product based food startup, up and running to deliver on your doorstep; all using a web platform. I was responsible for curating the whole platform and evolve it during the period of my services. The main technologies used were Core PHP, jquery and mysql. ",
+		"projects":["ComeFixMe", "FlipCommerce", "Workshop Manager"],
+		"technologies": ["php", "mysql", "jquery"],
+		"url":"#",
+		"image":""
+	}
+]

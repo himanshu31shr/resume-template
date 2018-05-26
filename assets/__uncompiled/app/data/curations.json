@@ -1,0 +1,98 @@
+[
+	{
+		"id":1,
+		"title":"Algaeceuticals",
+		"description":"A platform for searching microalgae, their compounds and the chemicals that can be produced by its decomposition. The platform also present capabilities for simulation of certain compounds, extracted from the microalgaes.",
+		"position":"Team Lead",
+		"team" : {
+			"developers": 2,
+			"designer": 2
+		},
+		"details": {
+			"responsibilities": ["Managing resources to work on multiple modules", "Understanding design complexities and provide suitable solution.","Converting requirements to individual user case stories.", "Build core prepositions and design abstract patterns."],
+			"top_modules":["Database normalization.","React integration with laravel.","Simulation module."]
+		},
+		"technologies":["mysql", "react", "webpackjs", "nodejs", "laravel", "jquery", "docker", "bootstrap"],
+		"isNda":true
+	},
+	{
+		"id":2,
+		"title":"Credit Repair CRM",
+		"description":"An inhouse product of 'Dream cyber infoway' aimed a creating a platform for everyone to manage their credit history. The flatform allows users to check their credit score and sebsequently the report; it also allows them to help manage the negative remarks on their credit report. The platform uses experian api to fetch the report.",
+		"position":"Team Lead",
+		"team" : {
+			"developers": 3,
+			"designer":1
+		},
+		"details": {
+			"responsibilities": ["Managing resources to work on multiple modules.","Understanding design complexities and provide suitable solution.","Converting requirements to individual user case stories.","Build core prepositions and design abstract patterns."],
+			"top_modules":["Architectural design and database normalization.","Integration of queues, triggers and sequences for allowing admins to get control over the workflow.","Saas integration for allowing multple instances of the same application."]
+		},
+		"technologies":["mysql", "laravel", "jquery", "webpack", "bootstrap"],
+		"isNda":true
+	},
+	{
+		"id":3,
+		"title":"CreditPros",
+		"description":"A CRM for managing and viewwing credit reports of the clients. It allows users to register on the platform, given their social security number (yes, it is us based) and fetch their report from transunion. The platform has been up and running since a year, we were required to make speed improvements and add new modules for better manageability of the system.",
+		"position":"Associate Developer",
+		"team" : {
+			"developers": 7,
+			"designer":2
+		},
+		"details": {
+			"responsibilities": ["Resolve existing production errors.","Suggest and make optimizations in the database. Optimize or remove outdated modules."],
+			"top_modules":["Complete restructuring of the triggers modules.","Addition of multiple level equation based sequential workflow.","Integration of event module and coupling it with sequences and triggers.","Integrating queues, to roll down all the largers tasks on the discreet sub process."]
+		},
+		"technologies":["mysql", "amazonwebservices", "codeigniter", "jquery", "bootstrap"],
+		"isNda":true
+	},
+	{
+		"id":4,
+		"title":"Maliweb",
+		"description":"A wordpress blog, which needed to be migrated to native php. The implementation was done using codeigniter and mysql, with all the data processed step by step and then migrated to the newly proposed db schema. The data was quite huge, with around 16 gigs in db alone; to cope up with huge data certain compression and caching optimizations were made in the apache server.",
+		"position":"Team Lead",
+		"team" : {
+			"developers": 3,
+			"designer":1
+		},
+		"details": {
+			"responsibilities": ["Managing resources to work on multiple modules.", "Understanding design complexities and provide suitable solution.","Converting requirements to individual user case stories. ", "Build core prepositions and design abstract patterns."],
+			"top_modules":["Database normalization.","Post scheduler integration.","Image processor with compression. CDN setup for hosting static resources."]
+		},
+		"technologies":["mysql", "codeigniter", "jquery", "bootstrap"],
+		"isNda":true
+	},
+	{
+		"id":5,
+		"title":"Workshop Manager",
+		"description":"A private system to be used on a private network in a motor bike corporation to ease the internal workflow. Mainly it was build to track records of all the bikes, coming for repairing. The system had different users roles with distinct set of operation and permissions. The roles were defined as per the workflow and each of the user role would be required for every bike coming through.",
+		"position":"Associate Developer",
+		"team" : {
+			"developers": 2,
+			"designer":1
+		},
+		"details": {
+			"responsibilities": ["Understanding design complexities and provide suitable solution.","Converting requirements to individual user case stories."],
+			"top_modules":["Access control library for managing user permissions.", "Task management listing.", "Globally synchronized todo listing.", "Accessibility tools."]
+		},
+		"technologies":["mysql", "codeigniter", "jquery", "bootstrap"],
+		"isNda":true
+	},
+	{
+		"id":6,
+		"title":"Comefixme",
+		"description":"Essentially a clone of TaskRabbit, the platform offers people to hire freelancers for doing different task. It offers a listing of different taskers with specified skills, to perform certain tasks; who can be hired on hourly basis. The listing is categorized on different criteria and is sorted according to the proximitity of available taskers.",
+		"position":"Associate Developer",
+		"team" : {
+			"developers": 2,
+			"designer":1
+		},
+		"details": {
+			"responsibilities": ["Understanding design complexities and provide suitable solution.","Converting requirements to individual user case stories."],
+			"top_modules":["Access control library for managing user permissions.", "Chat module supporting multiple instances of chat.", "Building API's to support app developers.", "List sorting and lead generator."]
+		},
+		"technologies":["mysql", "codeigniter", "jquery", "bootstrap"],
+		"isNda":true
+	}
+]
