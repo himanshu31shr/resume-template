@@ -1,5 +1,6 @@
-@import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
-@import '../../node_modules/font-awesome/css/font-awesome.min.css';
-@import '../../node_modules/fullpage.js/dist/jquery.fullpage.min.css';
-@import '../../node_modules/devicon/devicon.min.css';
-@import '../../assets/css/style.css';
+$body-color: #424242;
+@import '~bootstrap/scss/bootstrap';
+@import '~font-awesome/css/font-awesome.min';
+@import '~devicon/devicon.min';
+@import '~animate.css/animate';
+@import '../css/custom';

@@ -1,0 +1,12 @@
+{
+	"first_name":"himanshu",
+	"last_name":"shrivastava",
+	"email":"himanshu31shr@gmail.com",
+	"social_profiles": {
+		"facebook" :"http://facebook.com/himanshu13shr",
+		"linkedin":"https://www.linkedin.com/in/himanshu31shr/"
+	},
+	"summary":"I'm a developer specializing in web technology, from Indore, India. I'm passionate about the 'theory of everything', so when i'm not at work or grabbing a cup of coffee, you may find me behind a book.",
+	"qualities":["developer", "curator", "thinker"],
+	"image":"/assets/images/profile.jpg"
+}
