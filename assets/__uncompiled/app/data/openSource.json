@@ -1,0 +1,20 @@
+[
+	{
+		"id":1,
+		"title":"Codeigniter BoilerPlate",
+		"description":"A boilerplate for jump starting codeigniter projects. The boilerplate is integrated with coreui opensource theme for backend as well as frontend. Utilizes webpack for bundling css and js resources. Integrations includes access control library, twig templating engine, eloquent orm, cli command tools etc. ",
+		"technologies":["php", "codeigniter", "mysql", "jquery"],
+		"features":[
+			"Twig templating engine.",
+			"Aauth access control library for user access based on roles and permissions.",
+			"Common Symphony CLI commands for common tasks, such as development server, generating models, controllers etc.",
+			"Eloquent ORM.",
+			"Custom exception handling for managing response based on request type.",
+			"Webpack and laravel mix for concatenation and minification of js and css libraries.",
+			"Classmap autoloading for loading custom classes.",
+			"Global javascript events."
+		],
+		"link":"https://github.com/himanshu31shr/ci-boilerplate",
+		"image":""
+	}
+]

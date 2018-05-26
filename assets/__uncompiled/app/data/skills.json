@@ -1,0 +1,74 @@
+[
+	{
+		"id":1,
+		"title":"Core Php",
+		"description":"PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.[From: php.net]",
+		"icon":"fa fa-code",
+		"rating":9,
+		"mentions":"I have been working on this technology for over 3 years now, in it's simplest form. You may find 'core php' a bit of nomadic, but it isn't. I have built some apps using it, which performs quite well as compared to other framework; the thing is we don't have to use a gun when a pin can do the task."
+	},
+	{
+		"id":2,
+		"title":"laravel",
+		"description":"Laravel is a free, open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller (MVC) architectural pattern and based on Symfony.",
+		"icon":"devicon-laravel-plain",
+		"rating":6,
+		"mentions":"I'm very fond of this particular framework. It allows for pretty flexible operations including custom modules or namespaces, autoloading, bootstraping etc. I have worked on around 3+ project using laravel; all of those were mid level projects which probably used many built in features including queues, modal events, notifiables etc. There were others too where i had to integrate custom design patterns including Repository Pattern, Factory pattern and Service Pattern."
+	},
+	{
+		"id":3,
+		"title":"codeigniter",
+		"description":"CodeIgniter is loosely based on the popular model–view–controller (MVC) development pattern. While controller classes are a necessary part of development under CodeIgniter, models and views are optional.[From: Wikipedia]",
+		"icon":"devicon-codeigniter-plain",
+		"rating":6,
+		"mentions":"Codeigniter is the simplest framework of php, although it would not be wrong to consider 'Slim' too. With is small footprint it is used in much more than any other framework. I have used this framework on tons of projects which were both low and mid level. Apart from the in built features i.e. 'Hook', i had made custom acl, queue processor and triggers." 
+	},
+	{
+		"id":4,
+		"title":"react",
+		"description":"React can be used in the development of single-page applications and mobile applications. It aims primarily to provide speed, simplicity, and scalability. As a user interface library, React is often used in conjunction with other libraries such as Redux. [From: Wikipedia]",
+		"icon":"devicon-react-plain",
+		"rating":6,
+		"mentions":"I wouldn't comment on react right now, as i had just begun exploring it. Till now it is quite amazing and blazing fast. I have done till now 2 projects on it, one of them was to create a music player; which i had completed building."
+	},
+	{
+		"id":5,
+		"title":"angular",
+		"description":"AngularJS (commonly referred to as 'Angular.js' or 'AngularJS') is a JavaScript-based open-source front-end web application framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications. [From: Wikipedia]",
+		"icon":"devicon-angularjs-plain",
+		"rating":6,
+		"mentions":"Angular is another front end framework similar to react, but it came first. I had used this on 2+ projects; the speed was good, however slower than react."
+	},
+	{
+		"id":6,
+		"title":"node",
+		"description":"Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code server-side. Historically, JavaScript was used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML and run client-side by a JavaScript engine in the user's web browser. [From: Wikipedia]",
+		"icon":"devicon-nodejs-plain",
+		"rating":6,
+		"mentions":"Node has been used in almost every project, in a way or the other. If i am using NPM for my packages, surely there is node involved. I now know much about how those modules work and what exactly goes aroud when i use some packages via node."
+	},
+	{
+		"id":7,
+		"title":"express",
+		"description":"Express.js, or simply Express, is a web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js. [From: Wikipedia]",
+		"icon":"devicon-express-original",
+		"rating":6,
+		"mentions":""
+	},
+	{
+		"id":8,
+		"title":"webpack",
+		"description":"Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets representing those modules. It takes the dependencies and generates a dependency graph allowing web developers to use a modular approach for their web application development purposes. [From Wikipedia]",
+		"icon":"devicon-webpack-plain",
+		"rating":6,
+		"mentions":"I'm a freelance UI/UX design consultant with 7+ years of experience in digital design. I love designing simple and consistent web & mobile interfaces."
+	},
+	{
+		"id":9,
+		"title":"bootstrap",
+		"description":"Bootstrap is a free and open-source front-end library for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. [From Wikipedia]",
+		"icon":"devicon-bootstrap-plain",
+		"rating":6,
+		"mentions":"I'm a freelance UI/UX design consultant with 7+ years of experience in digital design. I love designing simple and consistent web & mobile interfaces."
+	}
+]
